@@ -1,0 +1,16 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": [
+    "Strings",
+    "Recursion.java",
+    "OOP's",
+    "LeetCode",
+    "Bit MAnuplation",
+    "Basics",
+    "Basic Sorting Alogritims",
+    "Backtracking",
+    "Arrays",
+    "2D-Arrays",
+    ""
+  ]
+}
